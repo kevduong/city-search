@@ -4,4 +4,4 @@ Built a city searching tool that pulls suggestions based on the user's letter in
 
 Practicing ajax calls, regex, promises, and spreading an array into a push method.
 
-Note to self: add heroku link
+Note to self: add heroku link**
